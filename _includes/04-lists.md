@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Favorite Things:
+  * Dancing in the rain
+  * Warm summer nights
+  * Singing 50's Hits
